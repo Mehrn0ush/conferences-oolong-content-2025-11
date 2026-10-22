@@ -1,0 +1,12 @@
+uuid: bdf1f87a-baf6-47c2-bc67-070d4607ce57
+version: 1
+type: BOM
+createdDate: '2025-10-28T00:00:00Z'
+formats:
+  - mediaType: application/vnd.cyclonedx+json
+    url: >-
+      https://raw.githubusercontent.com/taleodor/kauf-bulb-boms/refs/heads/main/sbom.out.1.96.cdx.json
+    checksums:
+      - algType: SHA-256
+        algValue: 265524520f9cc34da31a4622f9d93d8a3a6376e9d084d6978d8fc44b3d7b1062
+name: firmware_1_96_bom
